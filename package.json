@@ -1,0 +1,28 @@
+{
+  "name": "ssd-href-select",
+  "version": "1.0.0",
+  "description": "Simple widget to redirect to the page associated with the selected option.",
+  "main": "src/jquery.ssd-href-select.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastiansulinski/ssd-href-select.git"
+  },
+  "keywords": [
+    "select",
+    "redirect",
+    "jquery",
+    "select",
+    "redirect",
+    "jquery",
+    "plugin"
+  ],
+  "author": "Sebastian Sulinski <info@ssdtutorials.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sebastiansulinski/ssd-href-select/issues"
+  },
+  "homepage": "https://github.com/sebastiansulinski/ssd-href-select#readme"
+}
