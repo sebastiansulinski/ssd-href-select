@@ -1,8 +1,8 @@
 /*
  * ssdHrefSelect jQuery plugin
- * Examples and documentation at: https://github.com/sebastiansulinski/select-href
+ * Examples and documentation at: https://github.com/sebastiansulinski/ssd-href-select
  * Copyright (c) 2015 Sebastian Sulinski
- * Version: 1.1.0 (20-OCT-2015)
+ * Version: 1.1.1 (20-OCT-2015)
  * Licensed under the MIT.
  * Requires: jQuery v1.9 or later
  */

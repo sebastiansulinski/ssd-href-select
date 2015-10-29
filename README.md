@@ -30,14 +30,14 @@ npm install ssd-href-select
 #### Call plugin on the above html
 
 ```
-$('.select-pagination').ssdHref();
+$('.select-pagination').ssdHrefSelect();
 ```
 
 Plugin takes either `value` or `data-href` as the new location to redirect to.
 You can overwrite data-* argument with the optional argument `dataHref`):
 
 ```
-$('.select-pagination').ssdHref({
+$('.select-pagination').ssdHrefSelect({
     dataHref: 'url'
 });
 ```
