@@ -1,14 +1,14 @@
 /*
- * ssdSelectHref jQuery plugin
+ * ssdHrefSelect jQuery plugin
  * Examples and documentation at: https://github.com/sebastiansulinski/select-href
  * Copyright (c) 2015 Sebastian Sulinski
- * Version: 1.0.0 (20-OCT-2015)
+ * Version: 1.1.0 (20-OCT-2015)
  * Licensed under the MIT.
  * Requires: jQuery v1.9 or later
  */
 (function(window, $) {
 
-    $.fn.ssdSelectHref = function(options) {
+    $.fn.ssdHrefSelect = function(options) {
 
         "use strict";
 
